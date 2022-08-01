@@ -1,16 +1,21 @@
 # shippingcart
 
-A new Flutter project.
+Shipping Cart Flutter Team Project. The purpose of doing this project is to learn about data interaction of the application using JSON and local storage instead of API.
+What we all will learn here is:
+- UI Grid View and List View
+- Product add to cart, favorite and view history
+- Backend, learning about local storage and JSON data transfer
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Project Start Date: 01 August 2022
+Expected Duration: 15 days
 
-A few resources to get you started if this is your first Flutter project:
+** Team Member **
+- Um Chankreas
+- Hem Kimsokunthea
+- Cheng Rithya
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## External Link
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Trello Task Management](https://trello.com/b/Af0kaI1e/shippingcart)
