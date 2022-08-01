@@ -8,10 +8,10 @@ What we all will learn here is:
 
 ## Getting Started
 
-Project Start Date: 01 August 2022
-Expected Duration: 15 days
+Project Start Date: 30 July 2022
+Expected Duration: 15 August 2022
 
-** Team Member **
+**Team Member**
 - Um Chankreas
 - Hem Kimsokunthea
 - Cheng Rithya
