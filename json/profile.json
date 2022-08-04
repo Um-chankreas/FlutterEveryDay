@@ -1,0 +1,13 @@
+{
+    "user": {
+
+        "id": 1,
+        "first_name": "Test User",
+        "last_name": "001",
+        "phone": "010101010",
+        "email": "user@gmail.com",
+        "status": true,
+        "is_active": true,
+        "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa4xjShh4ynJbrgYrW_aB4lhKSxeMzQ3cO_A&usqp=CAU"
+    }
+}

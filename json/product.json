@@ -1,0 +1,79 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"FEJKA artificial potted",
+            "image":"https://www.ikea.com/jo/en/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0614197_pe686822_s5.jpg?f=s",
+            "description":"FEJKA artificial potted plants that do not require a green thumb. Perfect when you have better things to do than water plants and tidy up dead leaves. You will have everyone fooled because they look so lifelike.",
+            "prices":[
+                {
+                    "id":1,
+                    "name":"pack",
+                    "price":5.60
+
+                }
+            ]
+
+        },
+        {
+            "id":2,
+            "name":"Crassula ovata Sunset - Jade Plant",
+            "image":"https://cdn.shopify.com/s/files/1/1706/1307/products/Crassula-ovata-Sunset-Jade-Plant-12cm-New.jpg?v=1629098879",
+            "description":"The Jade Sunset Plant is a lovely variety of ovata succulent. Easy to care for, the warm yellow leaves and red tinged leaves relax the mood with a reminder of long lazy summer days.",
+            "prices":[
+                {
+                    "id":1,
+                    "name":"pack",
+                    "price":10.40
+
+                }
+            ]
+
+        },
+        {
+            "id":3,
+            "name":"Money Plant Golden",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxxxW1rwNIVBy5U8YqnFjFSOm46fnJKnsog&usqp=CAU",
+            "description":"A darling of home gardeners everywhere, the Money Plant Golden is famous for its never give up attitude.",
+            "prices":[
+                {
+                    "id":1,
+                    "name":"pack",
+                    "price":8.12
+
+                }
+            ]
+
+        },
+        {
+            "id":4,
+            "name":"Growing Areca Palm",
+            "image":"https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plant-money-plant-scindapsus-green-plant-in-4.5-inch-11-cm-ronda-no-1110-round-plastic-turquoise-plant-1_525x700.jpg?v=1637075961",
+            "description":"Areca palm (Chrysalidocarpus lutescens) is one of the most widely used palms for bright interiors. It features feathery, arching fronds, each with up to 100 leaflets. These big, bold plants command attention.Read more at Gardening Know How: Growing Areca Palm: Care Of Areca Palms Indoors https://www.gardeningknowhow.com/houseplants/areca-palm/growing-areca-palm-indoors.htm",
+            "prices":[
+                {
+                    "id":1,
+                    "name":"pack",
+                    "price":9.06
+
+                }
+            ]
+
+        },
+        {
+            "id":5,
+            "name":"Succulents, According to Plant Pros",
+            "image":"https://images.wsjcommerce.net/im-559190?width=1280&size=1",
+            "description":"There are thousands of types of succulents, but not all of them do well in indoor settings and some are better choices for succulent newbies.",
+            "prices":[
+                {
+                    "id":1,
+                    "name":"sets",
+                    "price":12.00
+
+                }
+            ]
+
+        }
+    ]
+}

@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'package:shippingcart/provider/product_provider.dart';
 import 'package:shippingcart/screen/cart/cart_order.dart';
 import 'package:shippingcart/screen/favorite/product_favorite.dart';
 import 'package:shippingcart/screen/history/order_history.dart';
@@ -19,6 +21,14 @@ class _BottomNavigationBarState extends State<BottomNavaBar> {
     const Tab(text: "Favorite"),
     const Tab(text: "History"),
   ];
+  @override
+  void initState() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      Provider.of<ProductProvider>(context, listen: false).getProducts();
+    });
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
