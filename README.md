@@ -16,6 +16,16 @@ Expected Duration: 15 days
 - Hem Kimsokunthea
 - Cheng Rithya
 
+## Important Lessons
+
+N/A
+
+## To Research
+
+- What is the difference between each state management method? Bloc, Provider, ....
+- What is Factory in Flutter model?
+- Local Storage vs Cloud data transfer.
+
 ## External Link
 
 - [Trello Task Management](https://trello.com/b/Af0kaI1e/shippingcart)
