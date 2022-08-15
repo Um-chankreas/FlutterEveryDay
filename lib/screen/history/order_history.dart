@@ -13,7 +13,8 @@ class _HistoryOrderState extends State<HistoryOrder> {
     return Scaffold(
       body: Center(
         child: Container(
-          child: Text("Cart List"),
+          padding: EdgeInsets.zero,
+          child: const Text("Cart List"),
         ),
       ),
     );

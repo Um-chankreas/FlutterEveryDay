@@ -13,7 +13,8 @@ class _MyFavoriteState extends State<MyFavorite> {
     return Scaffold(
       body: Center(
         child: Container(
-          child: Text("Favorite"),
+          padding: const EdgeInsets.all(0),
+          child: const Text("Favorite"),
         ),
       ),
     );

@@ -13,7 +13,8 @@ class _CartOrderState extends State<CartOrder> {
     return Scaffold(
       body: Center(
         child: Container(
-          child: Text("Cart List"),
+          padding: const EdgeInsets.all(0),
+          child: const Text("Cart List"),
         ),
       ),
     );

@@ -14,9 +14,9 @@ class SplashPage extends StatefulWidget {
 class _SplashPageState extends State<SplashPage> {
   @override
   void initState() {
-    Future.delayed(Duration(seconds: 3)).then((value) => Navigator.of(context)
-        .pushReplacement(
-            CupertinoPageRoute(builder: (context) => BottomNavaBar())));
+    Future.delayed(const Duration(seconds: 3)).then((value) =>
+        Navigator.of(context).pushReplacement(
+            CupertinoPageRoute(builder: (context) => const BottomNavaBar())));
     super.initState();
   }
 
@@ -24,19 +24,21 @@ class _SplashPageState extends State<SplashPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
+        padding: EdgeInsets.zero,
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.width,
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Icon(Icons.add_shopping_cart_rounded, color: seaGreen, size: 100),
+              const Icon(Icons.add_shopping_cart_rounded,
+                  color: seaGreen, size: 100),
               Text(
                 "Shipping Cart",
                 style: boldStyle.copyWith(color: seaGreen),
               ),
-              SizedBox(height: 16),
-              SpinKitCircle(
+              const SizedBox(height: 16),
+              const SpinKitCircle(
                 color: seaGreen,
                 size: 50,
               )

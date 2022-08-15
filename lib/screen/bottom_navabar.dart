@@ -8,7 +8,8 @@ import 'package:shippingcart/screen/homepage/home.dart';
 import 'package:shippingcart/utils/static.dart';
 
 class BottomNavaBar extends StatefulWidget {
-  BottomNavaBar();
+// ignore: use_key_in_widget_constructors
+  const BottomNavaBar();
 
   @override
   State<BottomNavaBar> createState() => _BottomNavigationBarState();
@@ -39,7 +40,7 @@ class _BottomNavigationBarState extends State<BottomNavaBar> {
               "Shipping Cart",
               style: boldStyle.copyWith(color: seaGreen),
             ),
-            actions: [
+            actions: const [
               Icon(
                 Icons.add_shopping_cart_rounded,
                 color: seaGreen,

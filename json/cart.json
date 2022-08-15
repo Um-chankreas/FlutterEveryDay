@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "id":1,
+            "total_price":0.2,
+            "qty":0,
+            "price":{
+                "id":1,
+                "name":"pack",
+                "price":5.60
+
+            },            
+            "product":{
+                "id":1,
+                "name":"FEJKA artificial potted",
+                "image":"https://www.ikea.com/jo/en/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0614197_pe686822_s5.jpg?f=s",
+                "description":"FEJKA artificial potted plants that do not require a green thumb. Perfect when you have better things to do than water plants and tidy up dead leaves. You will have everyone fooled because they look so lifelike.",
+                "prices":[
+                    {
+                        "id":1,
+                        "name":"pack",
+                        "price":5.60
+    
+                    }
+                ]
+    
+            }
+        }
+    ]
+}

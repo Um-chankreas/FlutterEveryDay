@@ -74,6 +74,23 @@
                 }
             ]
 
+        },
+        {
+            "id":6,
+            "name":"Lotus (ផ្កាឈូក)",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbGTwBaDMKGJGErc242MCAfU4Hj97s3o_ddHPzd9ZChqM5oVLbCtp3gTl5SfQjropMv8&usqp=CAU",
+            "description":"Lotus is a plant whose flowers, seeds, leaves, as well as tubers are used medicinally. Many faces. In fact, flowers can help stop blood, nuts can help some digestive problems such as diarrhea.",
+            "prices":[
+                {
+                    "id":1,
+                    "name":"pack",
+                    "price":12.00
+
+                }
+            ]
+
         }
+      
+        
     ]
 }
