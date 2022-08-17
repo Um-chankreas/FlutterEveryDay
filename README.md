@@ -19,7 +19,9 @@ Expected Duration: 15 August 2022
 
 ## Important Lessons
 
-N/A
+**Local Storage**
+
+When we release app apk and install it on our own device, it didn't fetch the data from our local storage; specifically the images.
 
 ## To Research
 
